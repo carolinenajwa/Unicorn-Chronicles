@@ -5,8 +5,7 @@
 Introduction:
 ---------
 Unicorn Chronicles is a unique trivia game where players navigate through a maze by answering trivia questions. 
-This project aims to blend educational objectives with an engaging gameplay experience. It employs Agile methodologies 
-and version control, mirroring real industry project management practices.
+Built using Unity 3D, this game aims to blend educational objectives with an engaging gameplay experience. 
 
 Key Features:
 --------------
