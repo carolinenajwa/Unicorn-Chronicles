@@ -17,12 +17,6 @@ Key Features:
 
 Installation:
 -------------
-
-Short Game Demo: 
--------------
-https://github.com/carolinenajwa/unicorn-chronicles/assets/82617020/99578a0f-2cfb-4e45-9174-06c0075097de
-
-
 3. Install the Game:
 - Find and double-click the downloaded .exe file.
 - Follow the on-screen prompts to complete installation.
@@ -30,6 +24,13 @@ https://github.com/carolinenajwa/unicorn-chronicles/assets/82617020/99578a0f-2cf
 4. Run the Game:
 - Open the game from the desktop shortcut or Start menu.
 - If a security warning appears, choose 'Run' or 'Allow'.
+
+
+Short Game Demo: 
+-------------
+https://github.com/carolinenajwa/unicorn-chronicles/assets/82617020/99578a0f-2cfb-4e45-9174-06c0075097de
+
+
 
 Contributor:
 ----------------
