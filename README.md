@@ -17,9 +17,6 @@ Key Features:
 
 Installation:
 -------------
-1. Download the Game:
-- Go to the 'Releases' section of this GitHub repository.
-- Download the .exe file of the latest version.
 
 Short Game Demo: 
 -------------
