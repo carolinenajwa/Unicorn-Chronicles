@@ -26,7 +26,7 @@ Installation:
 - If a security warning appears, choose 'Run' or 'Allow'.
 
 
-Short Game Demo: 
+Short Game Demo w/ Sound: 
 -------------
 https://github.com/carolinenajwa/unicorn-chronicles/assets/82617020/99578a0f-2cfb-4e45-9174-06c0075097de
 
