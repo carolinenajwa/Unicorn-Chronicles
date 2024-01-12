@@ -13,7 +13,7 @@ Key Features:
 - Question Types: Supports multiple-choice, true/false, and short answer questions.
 - Progress Tracking: Keeps track of your journey, including rooms visited and questions answered.
 - Save/Load Game: Ability to save your progress and return later.
-- Cross-platform: Compatible with Windows.
+- Platform: Compatible with Windows.
 
 Installation:
 -------------
