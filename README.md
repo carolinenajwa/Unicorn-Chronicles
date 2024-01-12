@@ -1,4 +1,4 @@
-# Unicorn Chronicles: a trivia maze game #
+# Unicorn Chronicles: A Trivia Maze Game #
 
 ------------------------------------------------------------
 
